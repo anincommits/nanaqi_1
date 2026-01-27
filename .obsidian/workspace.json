@@ -39,12 +39,14 @@
             "id": "57c735a03088ca05",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "模板.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.11.5"
+              "icon": "lucide-file",
+              "title": "模板"
             }
           }
         ],
@@ -207,8 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,11 +225,12 @@
   },
   "active": "57c735a03088ca05",
   "lastOpenFiles": [
+    "未命名.base",
+    "模板.md",
     "未命名",
     "友元.md",
     "运算符重载.md",
     "可调用对象.md",
-    "模板.md",
     "指针.md",
     "智能指针.md",
     "智能指针的优势.md",
